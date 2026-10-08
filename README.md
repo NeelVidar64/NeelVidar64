@@ -1,21 +1,19 @@
 # Hi, I'm Neel 👋
 
-MCA student at **MES IMCC, Pune** and a **Testing & Implementation Intern**. I enjoy writing clean code, breaking things to find bugs, and learning how software really works.
-
+MCA student at **MES IMCC, Pune** | Learning Full Stack Development
 📍 Pune, Maharashtra, India
 
 🗣️ Marathi, English
 
 ## 🛠️ Top Skills
 
-- **Core:** C, C++, Java
-- **Also working with:** Python, JavaScript, HTML, Data Structures
-- **Testing & Documentation:** Manual QA, test cases, workflow testing, SOP documentation, UI/UX collaboration
+- **Core:** HTML, C, C++, Java
+- **Also working with:** Python, JavaScript, Data Structures
 
 ## 🎓 Education
 
 - MCA, MES IMCC, Pune (pursuing)
-- Programming training at Marvellous Infosystems
+- BBA (CA), MES Senior College, Pune (completed)
 
 ## 🚀 Projects
 
@@ -27,6 +25,15 @@ MCA student at **MES IMCC, Pune** and a **Testing & Implementation Intern**. I e
 - Strengthening my Data Structures and OOP concepts
 - Building projects in C++ and Java
 - Learning real-world QA and software implementation at work
+- ⚛️ Learning **React JS** 
+- 🏭 Learning industrial project techniques: Git workflows, code reviews, documentation, testing practices and the SDLC
+
+> *"Every component I build today is a step toward the real-world apps of tomorrow."* ⚛️
+
+## 🔭 Upcoming Projects
+
+- 🏭 Full-stack project with a **React JS** frontend and a Java/Python backend
+- 📄 Built the industry way: proper README, SOPs and Git branching
 
 ## 📫 Connect with me
 
