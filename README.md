@@ -13,8 +13,9 @@
 Making software reliable, usable and ready for the real world, one tested workflow at a time.
 
 <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EE6A6&center=true&vCenter=true&width=700&lines=MCA+Student;Learning+C%2C+C%2B%2B%2C+Java%2C+ReactJS+%26+DSA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EE6A6&center=true&vCenter=true&width=700&lines=MCA+Student;Learning+C%2C+C%2B%2B%2C+Java%2C+Python%2C+ReactJS+%26+DSA" alt="Typing SVG" />
 
 </div>
 
@@ -47,7 +48,7 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp" alt="Programming Languages"/><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,python,react" alt="Programming Languages"/><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/><br>
 
@@ -81,19 +82,6 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 
 - 🏭 Full-stack project with a **React JS** frontend and a Java/Python backend
 - 📄 Built the industry way: proper README, SOPs and Git branching
-
----
-
-📊 GitHub Activity
-<div align="center"> <a href="https://github.com/Neelvidar?tab=repositories"> <img src="https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=2EE6A6" alt="Explore Repositories"/> </a> <a href="https://github.com/Neelvidar?tab=stars"> <img src="https://img.shields.io/badge/View-My%20Stars-0D1117?style=for-the-badge&logo=github&logoColor=2EE6A6" alt="GitHub Stars"/> </a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neelvidar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=C9D1D9" alt="GitHub Stats" height="160"/> <img src="https://streak-stats.demolab.com/?user=Neelvidar&theme=dark&hide_border=true&background=0D1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6" alt="GitHub Streak" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neelvidar&bg_color=0D1117&color=2EE6A6&line=0B7A5E&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%"/> </div>
 
 ---
 
